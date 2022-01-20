@@ -1,0 +1,4 @@
+#Thu Jan 20 21:50:24 KST 2022
+base.0=C\:\\Users\\s_tkddnjs8816\\Desktop\\quiz_app_test\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
